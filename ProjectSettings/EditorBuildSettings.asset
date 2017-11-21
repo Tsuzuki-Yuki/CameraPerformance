@@ -4,4 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: ab90e370b0ac7409ea85599a81f61317
+  - enabled: 1
+    path: Assets/Scenes/CameraPerformance.unity
+    guid: 81ff2bea7ef4747d2b0e35af642af016
